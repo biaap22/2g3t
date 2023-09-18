@@ -1,4 +1,2 @@
 # DUPLA
-
-Beatriz da Silva Ap  N 02---
-Vinicíus Codato      N 34
+## Vinicius- 34 --- Beatriz - 02.
