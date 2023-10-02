@@ -1,2 +1,2 @@
 # DUPLA
-## Vinicius- 34 --- Beatriz - 02.
+## Vinicius - n°34 --- Beatriz - n°02.
