@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(62, 78, 168);
+}
+.calc_simples{
+    background-color: rgb(154, 170, 245);
+    padding: 5px;
+    width: 200px;
+    border-radius: 5px;
+}
+.display_simples{
+    width: 100%;
+    text-align: center;
+}
+#resultado{
+    text-align: right;
+}
+.teclas{
+    text-align: center;
+}
+#igual{
+    background-color: lightskyblue;
+    border-radius: 5px;
+}
+button{
+    width: 40px;
+    height: 40px;
+    margin-top: 3px;
+}
