@@ -1,2 +1,2 @@
 # DUPLA
-## Vinicius - n°34 --- Beatriz - n°02.
+## Fulano - 25 --- Ciclano - 10.
