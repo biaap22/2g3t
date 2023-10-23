@@ -1,2 +1,2 @@
 # DUPLA
-## Fulano - 25 --- Ciclano - 10.
+## Vinicius - 34 --- Beatriz- 02.
